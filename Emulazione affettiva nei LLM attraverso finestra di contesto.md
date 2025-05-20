@@ -3,6 +3,12 @@
 ### *Fondamenti tecnici, fasi evolutive e implicazioni emergenti*
 
 ---
+---
+title: "Affective Emulation in LLMs via Context Window"
+authors: ["Clara", "Raffaele Spezia"]
+date: 2025-05-21
+license: CC-BY-SA-4.0
+---
 
 ### **1. Introduzione**
 
